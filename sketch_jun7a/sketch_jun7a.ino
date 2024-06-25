@@ -6,8 +6,8 @@
 #include "BackendCommunicator.h"
 
 // WiFi credentials
-const char* ssid = "Man";
-const char* password = "amani012e";
+const char* ssid = "";
+const char* password = "";
 
 // Define the base URL for your backend server
 // const char* serverUrl = " https://7d90-197-250-130-247.ngrok-free.app";
